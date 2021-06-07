@@ -1,1 +1,2 @@
-# Agri-Friend
+AGRIFRIEND - A Robust crop recommendation app
+
